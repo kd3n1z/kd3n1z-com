@@ -1,3 +1,2 @@
 ProcessInfo
-saturn
 cordova-calc
