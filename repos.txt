@@ -1,1 +1,2 @@
 ProcessInfo
+Cordova-Calc
